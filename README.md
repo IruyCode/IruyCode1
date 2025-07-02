@@ -1,7 +1,7 @@
 ## Hey!!  I´m Yuri a great lover of technology and programming ❤️
   - Full stack Developer 
   - Studying new technologies like : React js and its libraries.
-  - In career transition looking for the first opportunity
+ 
   
 <div align="center">
 <!--  Link direto para Conta -->
