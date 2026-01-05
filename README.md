@@ -1,37 +1,52 @@
-## Hey!!  I´m Yuri a great lover of technology and programming ❤️
-  - Full stack Developer 
-  - Studying new technologies like : React js and its libraries.
- 
-  
-<div align="center">
-<!--  Link direto para Conta -->
-  <a href="https://github.com/IruyCode">
-<!-- Stats da Conta -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IruyCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<!-- linguagens da Conta -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IruyCode&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
- 
- 
+<h1 align="center">Hi, I'm Yuri Banzato (IruyCode)</h1>
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Iruy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Iruy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Iruy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Iruy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Iruy-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Iruy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-  
-  ##
- 
-<div> 
+<p align="center">
+Full Stack Developer with nearly 3 years of professional experience.<br/>
+Focused on backend development with <strong>PHP (Laravel)</strong> and modern frontend technologies.
+</p>
 
-  <a href="https://instagram.com/yuri_banzato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yuribanzatodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-gabriel-banzato-3a702b1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/IruyCode/IruyCode/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+###  About me
+- Full Stack Developer based in Portugal  
+- Strong focus on backend architecture and structured systems  
+- Experience building real-world applications  
+- Currently completing a **Level 5 qualification**, with plans to pursue a **Bachelor’s degree in Software Engineering**
+
+---
+
+###  Portfolio & Contact
+-  Portfolio: https://portfolio.iruycode.com  
+-  LinkedIn: https://www.linkedin.com/in/yuri-gabriel-banzato-3a702b1b4/  
+-  Email: yuribanzatodev@gmail.com  
+
+---
+
+###  Tech Stack
+
+#### Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+#### Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/astrobuild/astrobuild-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</p>
+
+#### Tools & Environment
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+</p>
